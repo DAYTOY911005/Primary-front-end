@@ -1,2 +1,2 @@
 # Primary-front-end
-Git知识汇总
+前端知识汇总
